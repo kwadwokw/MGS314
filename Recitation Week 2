@@ -1,0 +1,26 @@
+print(6+2)
+x=10
+print(x)
+x=100.05
+x="true"
+print(x)
+x="This is a string"
+print(x)
+x=['H','E','L','L','O']
+print(x)
+x=100
+ty=type(x)
+print(ty)
+x=100.9
+print(type(x))
+print("abcdef")
+print("abc\ndef")
+marks_obtained=80
+total_marks=100
+percentage=(marks_obtained/total_marks)*100
+print(percentage,"%")
+x='I am a UB student'
+print(x[-1])
+print(x[2])
+print(x[-2])
+print(x[0:4])
